@@ -2,7 +2,7 @@
 
 from tkinter import *
 root = Tk()
-root.title('算不准计算器')
+root.title('算不准计算器0')
 root.geometry('320x590')
 root.resizable(width=False,height=False)
 l = Label(root, text="欢迎使用算不准计算器", bg="white", font=("Arabic", 20), width=200, height=2)
